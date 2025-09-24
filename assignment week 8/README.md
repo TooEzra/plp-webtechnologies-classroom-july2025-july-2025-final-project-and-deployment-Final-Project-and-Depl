@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-##Purpose
+## 🎯Purpose
 
 This is a personal portfolio website designed to showcase my skills, projects, and experience as a data scientist and web developer. It highlights key projects like the CORD-19 Data Explorer and provides a way for visitors to contact me.
 
@@ -33,7 +33,7 @@ Open index.html in a web browser.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-##Technologies Used
+## 🌐Technologies Used
 
 HTML5
 CSS3 (with animations and media queries)
