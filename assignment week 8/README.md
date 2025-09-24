@@ -8,7 +8,7 @@ This is a personal portfolio website designed to showcase my skills, projects, a
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-##Structure
+## 🌐Structure
 
 index.html: Home page with hero section and call-to-action.
 about.html: About me section with skills list.
@@ -21,7 +21,7 @@ images/: Folder for images (add your own as needed).
 The site uses a consistent header and footer across pages, with responsive design for mobile devices.
 
 ----------------------------------------------------------------------------------------------------------------------------------
-##Live URL
+## 🚀Live URL
 
 https://tooezra.github.io/wb8/
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -33,7 +33,7 @@ Open index.html in a web browser.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-## 🌐Technologies Used
+## 🛠️Technologies Used
 
 HTML5
 CSS3 (with animations and media queries)
