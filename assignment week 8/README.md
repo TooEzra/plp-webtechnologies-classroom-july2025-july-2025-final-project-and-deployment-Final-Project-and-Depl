@@ -1,8 +1,12 @@
-##My Portfolio Website
+##  📦My Portfolio Website
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ##Purpose
 
 This is a personal portfolio website designed to showcase my skills, projects, and experience as a data scientist and web developer. It highlights key projects like the CORD-19 Data Explorer and provides a way for visitors to contact me.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ##Structure
 
@@ -16,14 +20,18 @@ images/: Folder for images (add your own as needed).
 
 The site uses a consistent header and footer across pages, with responsive design for mobile devices.
 
+----------------------------------------------------------------------------------------------------------------------------------
 ##Live URL
 
 https://tooezra.github.io/wb8/
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ##How to Run Locally
 
 Clone the repository.
 Open index.html in a web browser.
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ##Technologies Used
 
